@@ -48,8 +48,9 @@ compressor.Decompress(new String[]{"compressed.bin"}, new String[]{"output.txt"}
 ```
 
 ## Contributors
-- Itamar Abir (ID#)
-- Rami Abo Rabia (ID#)
+- Rami Abo Rabia
+- Itamar Abir
+
 
 ## Notes
 - Uncomment the import statements for `FileInputStream` and `FileOutputStream` if you wish to use them for file access.
